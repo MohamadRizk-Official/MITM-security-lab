@@ -1,3 +1,8 @@
+![Platform](https://img.shields.io/badge/platform-Linux-blue)
+![Tool](https://img.shields.io/badge/tool-mitmproxy-orange)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![Purpose](https://img.shields.io/badge/purpose-educational-lightgrey)
+
 # MITM SSL Vulnerability Lab
 
 A hands-on cybersecurity lab demonstrating a Man-in-the-Middle (MITM) attack on HTTPS traffic in a controlled virtual environment.
